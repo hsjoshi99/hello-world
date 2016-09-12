@@ -1,4 +1,4 @@
-/* Provide support for both ANSI and non-ANSI environments.  */
+/* Provide support for both ANSI and non-ANSI environments.  Added by Josh */
 
 /* Some ANSI environments are "broken" in the sense that __STDC__ cannot be
    relied upon to have it's intended meaning.  Therefore we must use our own
